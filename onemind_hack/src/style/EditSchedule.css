@@ -1,0 +1,59 @@
+.EditScheduleWrap > .back {
+  width: 7vw;
+  height: 7vw;
+
+  margin-top: 3vw;
+  margin-left: 2vw;
+}
+
+.EditScheduleWrap > .EditScheduleContentWrap {
+  width: 90%;
+  height: 180vw;
+
+  margin-left: 5vw;
+  margin-top: 2vw;
+
+  border-radius: 13px;
+  background: #fff;
+  box-shadow: 0px 3px 10px 0px rgba(0, 0, 0, 0.25);
+}
+
+.EditScheduleWrap > .EditScheduleContentWrap > .EditScheduleTitle {
+  margin-top: 2vw;
+  margin-left: 5vw;
+  margin-bottom: 5vw;
+  font-family: Pretendard-Variable, sans-serif;
+  font-size: 1.3rem;
+  font-weight: 500;
+}
+
+.EditScheduleWrap > .EditScheduleContentWrap > .EditScheduleWrite {
+  width: 99%;
+  height: 92%;
+
+  padding-left: 1%;
+
+  border: none;
+
+  border-top: 1px solid #f7d6a9;
+
+  font-family: Pretendard-Variable, sans-serif;
+  font-size: 1.3rem;
+  font-weight: 500;
+  &:focus {
+    outline: none;
+  }
+}
+
+.EditComplete {
+  width: 30vw;
+  height: 10vw;
+
+  margin-left: 35%;
+  margin-top: 8%;
+
+  border: none;
+  border-radius: 15px;
+
+  background-color: rgb(239, 243, 160);
+}

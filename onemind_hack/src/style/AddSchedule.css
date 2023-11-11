@@ -1,0 +1,61 @@
+.AddScheduleWrap > .PageTitle > .back {
+  width: 7vw;
+  height: 7vw;
+
+  margin-top: 3vw;
+  margin-left: 2vw;
+}
+
+.AddScheduleWrap > .PageTitle > .title {
+  font-family: Pretendard-Variable, sans-serif;
+  font-size: 1.5rem;
+
+  width: 100%;
+  height: 120%;
+
+  margin-left: 0;
+  margin-top: -6vw;
+  padding-bottom: 6vw;
+  margin-bottom: 10vw;
+
+  text-align: center;
+}
+
+.AddInput {
+  border-top: 2px solid #f6d7a9;
+  border-radius: 15px;
+
+  margin-top: -4vw;
+
+  width: 100%;
+  height: 80vw;
+}
+
+.Write {
+  /* border: none; */
+  width: 100%;
+  height: 210%;
+  border: none;
+
+  border-bottom: 1px solid #f6d7a9;
+  font-family: Pretendard-Variable, sans-serif;
+  font-weight: 600;
+  font-size: 1rem;
+
+  &:focus {
+    outline: none;
+  }
+}
+
+.AddBtn {
+  width: 30vw;
+  height: 10vw;
+
+  margin-left: 35%;
+  margin-top: 8%;
+
+  border: none;
+  border-radius: 15px;
+
+  background-color: rgb(239, 243, 160);
+}
