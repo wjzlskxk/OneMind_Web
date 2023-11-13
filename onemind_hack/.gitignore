@@ -22,5 +22,5 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-clientId.js
-serverUrl.js
+ClientId.js
+ServerUrl.js
