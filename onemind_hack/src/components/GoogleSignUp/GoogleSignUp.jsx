@@ -1,7 +1,7 @@
 import { GoogleOAuthProvider, GoogleLogin } from "@react-oauth/google";
 import axios from "axios";
-import ClientId from "../GitHide/clientId";
-import serverUrl from "../GitHide/serverUrl";
+import ClientId from "../GitHide/ClientId";
+import serverUrl from "../GitHide/ServerUrl";
 const GoogleSignUp = () => {
   const clientId = ClientId;
   const SERVERURL = serverUrl;
